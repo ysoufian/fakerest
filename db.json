@@ -1,0 +1,15 @@
+{
+  "statements": [
+    {
+      "id": 1,
+      "YEAR": "2015",
+      "url" : "https://s3/stmt1.pdf"
+    }
+  ],
+  "profile": {
+    "name": "yacine soufiane",
+    "membership":"free",
+    "upi":"123456"
+    "avatar":"https://webstockreview.net/images/male-clipart-avatar.png",
+  }
+}
